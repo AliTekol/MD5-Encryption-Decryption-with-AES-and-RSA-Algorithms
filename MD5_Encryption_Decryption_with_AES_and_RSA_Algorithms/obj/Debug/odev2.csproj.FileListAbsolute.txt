@@ -1,0 +1,33 @@
+C:\Users\ALİ\Source\Repos\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ALİ\Source\Repos\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\ALİ\Source\Repos\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.csprojAssemblyReference.cache
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ALİ\Source\Repos\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.csprojAssemblyReference.cache
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\Mehmet Uğur\Desktop\odev2\odev2\obj\Debug\odev2.Form2.resources
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.csprojAssemblyReference.cache
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.Form2.resources
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\ALİ\Desktop\odev2\odev2\odev2\obj\Debug\odev2.Form3.resources
